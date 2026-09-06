@@ -59,7 +59,7 @@
 * A **Submit** option is provided to send feedback.
 
 
-### 📱 4. SCREENS INCLUDED
+### 📱 SCREENS INCLUDED
 
 🏠 **Screen 1 – Home Page**
 
