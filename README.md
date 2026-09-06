@@ -1,5 +1,4 @@
-### Weather App
-# 🌈☀️ Weather App – Summary
+# 🌈☀️ Weather App 
 
 ### 🌦️ Weather Information
 
