@@ -59,6 +59,40 @@
   * ⛈️ Thunder
 * A **Submit** option is provided to send feedback.
 
+
+### 📱 4. SCREENS INCLUDED
+
+🏠 **Screen 1 – Home Page**
+
+<img width="590" height="1124" alt="01" src="https://github.com/user-attachments/assets/55b79237-9cda-4d3a-882c-6a8cfe59a708" />
+
+
+
+
+🍽️ **Screen 2 – Search Page**
+
+<img width="590" height="1124" alt="02" src="https://github.com/user-attachments/assets/eff7baa5-e613-4d15-94bc-ce538cd6cda6" />
+
+
+
+
+
+🥗 **Screen 3 – 7 Days Forecasts**
+
+
+<img width="590" height="1124" alt="03" src="https://github.com/user-attachments/assets/a583357c-8890-45cd-83c9-32ddcee84c8b" />
+
+
+
+🍗 **Screen 4 – Feedback Page**
+
+<img width="590" height="1124" alt="04" src="https://github.com/user-attachments/assets/5072378b-a5b9-425a-beb5-50d216406b04" />
+
+
+
+
+
+
 ###  🎨 Colourful Design
 
 * Uses a **purple, pink, and blue colour theme**.
