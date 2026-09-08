@@ -5,7 +5,7 @@
 https://www.figma.com/design/q5GVA8av5iZjrkiinI23uq/Weather-App?node-id=0-1&p=f&t=ed6ZDaBh8Q9jabgN-0
 
 
-### Prototype linkl :
+### Prototype link :
 
 
 https://www.figma.com/proto/q5GVA8av5iZjrkiinI23uq/Weather-App?node-id=0-1&t=ed6ZDaBh8Q9jabgN-1
